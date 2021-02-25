@@ -1,6 +1,8 @@
+从羊咩那里魔改的联合省选倒计时！
+
 # Digital-Clock-Countdown
 
-用vue实现 Digital Clock + 2022 高考倒计时， [Demo](https://eqvpkbz.github.io/clock/index.html)
+用vue实现 Digital Clock + 2021 联合省选倒计时， [Demo](https://powertony102.github.io/clock/index.html)
 
 ## 实现参考
 
@@ -8,7 +10,7 @@
 
 Digital Clock 和大体的 CSS  是从 [Digital Clock with Vue.js - Toshiyuki TAKAHASH](https://codepen.io/gau/pen/LjQwGp) 处剽窃过来的
 
-高考倒计时的实现参考了 [MicDZ的文章](https://www.micdz.cn/article/time/)
+倒计时的实现参考了 [MicDZ的文章](https://www.micdz.cn/article/time/)
 
 ## 演示案例
 
