@@ -18,7 +18,7 @@ function updateTime() {
     var cd = new Date();
     clock.time = zeroPadding(cd.getHours(), 2) + ':' + zeroPadding(cd.getMinutes(), 2) + ':' + zeroPadding(cd.getSeconds(), 2);
     clock.date = zeroPadding(cd.getFullYear(), 4) + '-' + zeroPadding(cd.getMonth()+1, 2) + '-' + zeroPadding(cd.getDate(), 2) + ' ' + week[cd.getDay()];
-    var EndTime = new Date("2022/06/07 09:00:00"); //截止时间
+    var EndTime = new Date("2021/04/03 08:30:00"); //截止时间
     var t = (EndTime.getTime() - cd.getTime()) / 1000;
     clock.lst_d = zeroPadding(Math.floor(t / 86400), 3);
     clock.lst_h = zeroPadding(Math.floor((t /3600) % 24), 2);
