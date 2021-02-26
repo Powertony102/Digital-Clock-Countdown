@@ -2,7 +2,9 @@
 
 # Digital-Clock-Countdown
 
-用vue实现 Digital Clock + 2021 联合省选倒计时， [Demo](https://powertony102.github.io/clock/index.html)
+用vue实现 Digital Clock + 2021 联合省选倒计时， [Demo](https://tony102.xyz/Clock/index.html)
+
+已部署至tony102.xyz
 
 ## 实现参考
 
